@@ -1,3 +1,3 @@
 # My git Cheatsheet
 
-Hello trainees
+Hello trainees 😉
