@@ -2,3 +2,6 @@
 Training Avanade git &amp; Social Coding with GitHub
 
 😋
+
+
+edrg
